@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Toukei::VERSION
   spec.authors       = ["willnet"]
   spec.email         = ["netwillnet@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{toukei}
+  spec.summary       = %q{toukei}
+  spec.homepage      = "https://github.com/willnet/toukei"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
