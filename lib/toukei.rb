@@ -1,6 +1,6 @@
 require "toukei/version"
-require 'code_statistics_calculator'
-require 'code_statistics'
+require 'toukei/code_statistics_calculator'
+require 'toukei/code_statistics'
 
 module Toukei
   # Your code goes here...
